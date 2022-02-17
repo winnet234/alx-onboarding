@@ -1,0 +1,12 @@
+Task 2:
+
+sum = 0
+number = 0
+
+WHILE number >= 0
+   ENTER number
+   sum = sum + number
+WEND
+PRINT sum
+END
+

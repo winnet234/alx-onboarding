@@ -1,0 +1,6 @@
+Task 0:
+
+sum = 0
+enter N
+N = N^2
+sum = sum + N
